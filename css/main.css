@@ -23,6 +23,15 @@ h1 {
     font-size: 3em;
     font-family:'Comic sans ms', 'Cursive', 'Sans-Serif';
 }
+
+body {
+    color: #EEEE00;
+}
+
+small {
+    font-size: 0.5em;
+}
+
 p {
     font-size: 1.5em;
     line-height: 1.4em;
