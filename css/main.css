@@ -1,9 +1,11 @@
 body {
     margin: 60px auto;
     width: 70%;
+    background-color: #EEEE00;
+    font-family:'Comic sans ms', 'Cursive', 'Sans-Serif';
 }
 nav ul, footer ul {
-    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    font-family:'Comic sans ms', 'Cursive', 'Sans-Serif';
     padding: 0px;
     list-style: none;
     font-weight: bold;
@@ -24,18 +26,17 @@ h1 {
     font-family:'Comic sans ms', 'Cursive', 'Sans-Serif';
 }
 
-body {
-    color: #EEEE00;
-}
 
 small {
     font-size: 0.5em;
+    font-family:'Comic sans ms', 'Cursive', 'Sans-Serif';
 }
 
 p {
     font-size: 1.5em;
     line-height: 1.4em;
     color: #333;
+    font-family:'Comic sans ms', 'Cursive', 'Sans-Serif';
 }
 footer {
     border-top: 1px solid #d5d5d5;
