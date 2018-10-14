@@ -4,8 +4,6 @@ title: "Michael Bayless's second blog post"
 date: 2018-09-28
 ---
 
-this is a work in progress.
-
 my impressions of the course:
 
 I'm still pretty bored with whats happening in class. We did sort of start learning a new language, but not much of it. I did, however, start working on learning the language on my own, but I'll save that for the "my learning" section. I feel that this class is sort of slow paced, at least, in my opinion. 
