@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Michael Bayless's fourth blog post"
-date: 2018-09-28
+date: 2018-10-12
 ---
 
 Part 1: Our Learning:
