@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Michael Bayless Launches Learning Blog"
+title: "Michael Bayless's 1st blog post"
 date: 2018-09-21
 ---
 
