@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Michael Bayless's fourth blog post"
+title: "Michael Bayless's 4th blog post"
 date: 2018-10-12
 ---
 
