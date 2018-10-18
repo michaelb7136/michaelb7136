@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Michael Bayless's second blog post"
+title: "Michael Bayless's 2nd blog post"
 date: 2018-09-28
 ---
 
