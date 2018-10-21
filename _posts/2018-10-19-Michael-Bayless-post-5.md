@@ -21,7 +21,7 @@ this piece of code defines "twostar" as the combination of two stars with the ov
 
 
 A note for Mr. Allatta:
-I'm not really sure if this clashes with your teaching philosophy, but I feel like an inclusion of a rubric for the blog posts, or even better, just spelling out the requirements for getting a 4 on blog posts would be a great help to everyone in the class. I feel like it might be a factor to why, as you stated, 10th grade doesn't do well on the blog posts, as they might feel that there's no way to do well, so they shouldn't try very hard. another reason why it could be a factor is that they don't have any way to judge theirselves, so they just to a minimal amount of effort and hope to get a decent grade. anyway, I would appreciate if you spelled out the requirements for getting a 4, because I want to make a better attempt to do well in your class.
+I'm not really sure if having students do things for grades goes against your teaching philosophy, but I feel like an inclusion of a rubric for the blog posts, or even better, just spelling out the requirements for getting a 4 on blog posts would be a great help to everyone in the class. I feel like it might be a factor to why, as you stated, 10th grade doesn't do well on the blog posts, as they might feel that there's no way to do well, so they shouldn't try very hard. another reason why it could be a factor is that they don't have any way to judge theirselves, so they just to a minimal amount of effort and hope to get a decent grade. anyway, I would appreciate if you spelled out the requirements for getting a 4, because I want to make a better attempt to do well in your class.
 
 P.S. should I replace all instances of "Mr. Allatta " with "you", as if you were the main reader of the blog post?
 
