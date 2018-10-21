@@ -24,17 +24,3 @@ A note for Mr. Allatta:
 I'm not really sure if having students do things for grades goes against your teaching philosophy, but I feel like an inclusion of a rubric for the blog posts, or even better, just spelling out the requirements for getting a 4 on blog posts would be a great help to everyone in the class. I feel like it might be a factor to why, as you stated, 10th grade doesn't do well on the blog posts, as they might feel that there's no way to do well, so they shouldn't try very hard. another reason why it could be a factor is that they don't have any way to judge theirselves, so they just to a minimal amount of effort and hope to get a decent grade. anyway, I would appreciate if you spelled out the requirements for getting a 4, because I want to make a better attempt to do well in your class.
 
 P.S. should I replace all instances of "Mr. Allatta " with "you", as if you were the main reader of the blog post?
-
-
-
-
-
-<!--
-In this week's reflection, reflect on the process to design a program to display the geometry of a national flag. Reflect on the process to develop an original program. You must discuss at least two points in the process that were challenges or opportunities that you faced, including: decision steps, learning new functions, addressing feedback messages, or any other thinking work you did when designing your program.
-Part 1: Our Learning
-- Summarize the learning objectives and mastery skills for the week
-- Make your own connections between concepts, activities, and objectives
- Part 2: My Learning
-- Reflect on your personal contribution to the class
-- Discuss your learning including struggles, questions, accomplishments, and needs for more support or more challenge
--->
