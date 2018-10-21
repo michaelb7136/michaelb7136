@@ -11,12 +11,14 @@ My learning:
 
 This week, I did some pretty decent classwork, at least in my opinion, although I didn't learn too much. The reason why I say I did good classwork was that I completed my flag. everyone else did relatively low effort flags, such as the flag of ghana. I chose the flag of the U.S.A (pictured below), and finished it on time, which I think shows that I can work efficiently, and that I can focus on getting work done. I used a technique to make the flag, which was grouping the stars together, so I didn't have to make 50 separate stars.
 <br>
+<img src="/images/flag.png" title="im so sorry, there's actually only 49 stars." width="360" height="216">
+<br>
 <code> twostar = overlay-xy(STAR,(250/6),0,STAR) </code>
 <br>
 this piece of code defines "twostar" as the combination of two stars with the overlay-xy function (which I learned on my own how to implement as a challenge for myself), put 250/6 units away from each other horizontally. 250 is the length of my union (blue part of flag), which is divided by 6, because there was an intention to put 6 stars per row, although I admit this only worked in the finished product because of luck and workarounds later on. in a different part of the code, two star is later combined with another twostar to make fourstar, combined with fourstar to make sixstar, and finally fourstar was combined with just one star to make fivestar. this section of code, in conjunction with the star rows that were produced with it, were a fundamental necessity for my flag, as it allowed me to just put 5 rows of six stars and 4 rows of five stars, and there's no way that I'd make 50 individual stars. this is where the positive self reflection ends. one area for growth for making the flag would be making it realistic/to scale. I just eyeballed the flag's and its component's relative sizes, which makes the flag look kind of uneven, and definitely would look better if I did it to scale. back to the first sentence of this section, one reason I didn't learn much is that I couldn't make much sense of the programs Mr. Alatta shared with me after completing my flag. I understood the first one just fine, but the second one more or less stumped me. I tried looking up the usage of lambdas, but all I found were the halfway point of many online scheme courses, which used context sensitive uses of lamdas, which I would have to read prior lessons to understand. Another reason why I didn't learn much is that I just use the html tags instead of trying to use the markdown equivalents for code blocks and images. I suppose I should at least have tried to use the markdown versions, but in my opinion, learning multiple ways to do one thing if there's no (difference in use case/need to use a different method) is a waste, but and in the end, I didn't really learn much about markdown, which kind of goes against the intentions of the class, so I'll be sorry about that later probably.
 
 
-<img src="/images/flag.png" title="im so sorry, there's actually only 49 stars." width="360" height="216">
+
 
 
 
