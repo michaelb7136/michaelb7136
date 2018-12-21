@@ -4,19 +4,16 @@ title: "Flag Project - Final Submission"
 date: 2018-12-21
 ---
 
-## Flag of _insert your country_ by _insert your name_
+## Unit 4 of the data science curriculum by Michael Bayless
 
 ## Describe your program
 
--   What country did you design for? _then delete this instruction_
--   What grade do you expect? _then delete this instruction_
-
-<!--- Delete this comment and add your writing -->
+This program is about manipulating a data set that I chose. 
 
 ## Current output
 
 * * *
-<img src="/images/chart.png">
+![Chart](/images/chart.png)
 * * *
 
 ## Describe your process.
