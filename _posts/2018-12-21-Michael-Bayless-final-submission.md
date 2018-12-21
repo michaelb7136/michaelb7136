@@ -15,10 +15,8 @@ date: 2018-12-21
 
 ## Current output
 
--   Insert an image that your program currently produces. _then delete this instruction_
-
 * * *
-![Flag](/images/final-flag.png)
+![Chart](/images/chart.png)
 * * *
 
 ## Describe your process.
@@ -37,7 +35,15 @@ date: 2018-12-21
 * * *
 
 ```
-Insert 10-15 line code section here _then delete this instruction_
+fun is-mega(row):
+  if string-length(row["name"]) < 5:
+    false
+  else if not(string-substring(row["name"],4,5) == " "):
+    false
+  else:
+  "Mega" == string-substring(row["name"],0,4)
+  end
+end
 ```
 
 * * *
