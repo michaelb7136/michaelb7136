@@ -16,7 +16,7 @@ date: 2018-12-21
 ## Current output
 
 * * *
-![Chart](/images/chart.png)
+<img src="/images/chart.png">
 * * *
 
 ## Describe your process.
