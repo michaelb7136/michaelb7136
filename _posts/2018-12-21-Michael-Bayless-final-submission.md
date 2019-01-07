@@ -27,7 +27,7 @@ lines 2 and 3 state that if the length of the string in the "name" column of the
 lines 4 and 5 state that if the 5th character is not a space, then to return false.<br>
 lines 6 and 7 mean that if the first 4 characters are "Mega" then to return true and if not, return false.<br>
 lines 8 and 9 end the conditional and function definition.<br>
-this piece of code is important to the program as a whole because it enables the ability to 
+this piece of code is important to the program as a whole because it enables the ability to filter the pokemon table to only mega pokemon, which can be used to create charts. (not pictured)
 * * *
 
 ```
