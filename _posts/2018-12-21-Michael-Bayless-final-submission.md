@@ -8,7 +8,7 @@ date: 2018-12-21
 
 ## Describe your program
 
-This program is about manipulating a data set that I chose. 
+This program's purpose is to manipulate a data set that I chose. 
 
 ## Current output
 
