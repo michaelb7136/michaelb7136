@@ -18,17 +18,15 @@ This program's purpose is to manipulate a data set that I chose.
 
 ## Describe your process.
 
--   What questions, strategies, help from peers or teacher, or thinking got you to this point? _then delete this instruction_
-
-<!--- Delete this comment and add your writing -->
-
+In order to get to this point, I mostly followed the instructions from the data science curriculum/units, and occasionally the packet.
 
 ## Explain your code.
 
--   Choose a significant part of your program (15 lines max) and paste it below. Do not insert your entire program here. _then delete this instruction_
--   Explain each argument in the code section. _then delete this instruction_
--   Tell us how it functions independently and within the whole program _then delete this instruction_
-
+line 1 defines the function is-mega, which takes in a row and produces a boolean<br>
+lines 2 and 3 state that if the length of the string in the "name" column of the row is less that 5 characters to return false. This is required because if it wasn't included it would return an error when taking in pokemons with less that 5 characters in their name due to the next condition checking the 5th character of the pokemon's name. <br>
+lines 4 and 5 state that if the 5th character is not a space, then to return false.
+lines 6 and 7 mean that if the first 4 characters are "Mega" then to return true and if not, return false.
+lines 8 and 9 end the conditional and function definition.
 * * *
 
 ```
@@ -42,13 +40,6 @@ fun is-mega(row):
   end
 end
 ```
-
-* * *
-
--   Explain the code you posted by telling us about each argument.
--   Then tell us how your code section fits into the whole.
- 
- 
 
 
 ## Program code
